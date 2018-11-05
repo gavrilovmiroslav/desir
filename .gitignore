@@ -1,0 +1,6 @@
+examples/**/*.class
+examples/**/**/*.class
+target/
+project/
+!project/assembly.sbt
+desir.jar

@@ -1,0 +1,4 @@
+native_classpath=${jpf-core}/build/jpf.jar,desir.jar
+classpath=.,junit.jar,desir.jar
+target=Main
+#listener+=desir.jpf.DesIRListener
